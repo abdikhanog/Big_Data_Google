@@ -1,2 +1,4 @@
 # Big_Data_Google
 Google_Cloud and Python. 
+Big data is the field that deals with analysing and extracting meaning information from very large datasets that cannot be handled efficiently by current and past software technologies. Usually this large data set will consist of many rows and columns [1]. The associated challenges are extensive and include; data capturing, storage and visualization [1]. 
+In this work I will be using Google Cloud to assess the performance of the inception model applied to two datasets through Cloud-ML framework. I will test the overall performance of the inception algorithm applied to each dataset by varying server/cluster configurations with and without GPU. I will also explore the effect of dropout for each dataset whilst documenting metric development during training for each model. 
